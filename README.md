@@ -13,6 +13,7 @@ Air quality index (AQI) analysis involves monitoring and analyzing air quality i
 # Dataset Description:
 
 Dataset link: https://statso.io/air-quality-index-analysis-case-study/
+
 The dataset includes the following variables:
 
 1. date: Date and time of the measurement.
